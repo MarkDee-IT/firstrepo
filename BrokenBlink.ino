@@ -19,7 +19,7 @@ int LEDPin=2;
 
 // the setup function runs once when you press reset or power the board
 void setup() {
-  // initialize digital pin LEDPin as an output. (unsure if LEDPin is a legitimate port or not so leaving it with this note just in case)
+  // initialize digital pin LEDPin as an output.
   pinMode(LEDPin, OUTPUT);
 }
 
